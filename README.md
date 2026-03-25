@@ -1,4 +1,4 @@
-![NETFORGE Banner](./netforge_poster.svg)
+![NETFORGE Banner](./netforge_banner.png)
 
 # NETFORGE
 
